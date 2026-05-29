@@ -29,7 +29,7 @@ I am obsessed with the mechanics of artificial intelligence and high-performance
 * 🌍 **Open Source:** Active student contributor for **GirlScript Summer of Code (GSSoC) 2026**.
 * ☁️ **Certifications:** Earned the **Google AI Professional Certificate** and **Google AI Essentials**, building 20+ AI artifacts and mastering prompt engineering.
 * 🚨 **HackMSC 2.0:** Secured **5th Place** out of numerous teams for engineering a Smart Mining Safety System.
-* 🩺 **AIFT Summer Challenge:** Secured **2nd Runner-Up** for developing Derm.AI, a deep learning skin classification tool.
+* 🩺 **AIFT Summer Challenge:** Secured **2nd Runner-Up** for developing Derm.AI, a deep learning skin classification tool, co-developed with my teammates [Mageshwaran T](https://github.com/itsmageshwaran) and [Upputuri Naga Rishita](https://github.com/nagarishitaupputuri2007).
 
 ---
 
