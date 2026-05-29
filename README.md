@@ -1,7 +1,7 @@
-# Hi there! I'm Udeep 👋 <img src="https://komarev.com/ghvc/?username=UdeepChowdary&color=2CFB51&style=flat-square" align="right" alt="Views Counter" />
+# Hi there! I'm Udeep 👋 ![Views Counter](https://komarev.com/ghvc/?username=UdeepChowdary&color=2CFB51&style=flat-square)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CFB51&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer;Data+Structures+%26+Algorithms;3D+Web+Experiences+(Three.js);Building+with+LLMs+%26+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CFB51&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Data+Structures+%26+Algorithms;3D+Web+Experiences+(Three.js);Building+with+LLMs+%26+RAG" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,37 +32,22 @@ I am a **Computer Science Engineering Student** and an **Aspiring AI Engineer**.
 ## 🛠️ Tech Stack
 
 ### 💾 Backend & Core Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🤖 AI, LLMs & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🌐 3D & Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧰 Tools & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdeepChowdary&theme=onedark&column=7&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UdeepChowdary&theme=onedark&column=7&margin-w=15" alt="GitHub Trophies" /></a>
 </p>
 
 ---
