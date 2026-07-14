@@ -10,8 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-121011?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-bay-six-97.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/UdeepChowdary/UdeepChowdary/blob/main/UdeepChowdaryNaripeddi_resume.pdf)
 [![LeetCode](https://img.shields.io/badge/LeetCode-udeep2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/udeep2006/)
-![Visitors](https://komarev.com/ghpvc/?username=UdeepChowdary&color=2979FF&style=for-the-badge&label=VISITORS)
-
 </div>
 
 ---
