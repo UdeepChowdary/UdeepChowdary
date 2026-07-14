@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚡ Udeep Chowdary 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CFB51&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Building+Intelligent+Systems;Deep+Learning+%26+RAG;Advanced+Data+Structures+%26+Algorithms" alt="Typing SVG" />
 
-*Second-year CS Engineering student passionate about AI, Deep Learning, and building intelligent systems.* 🚀
+*Third-year CS Engineering student passionate about AI, Deep Learning, and building intelligent systems.* 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udeep-chowdary)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-121011?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-bay-six-97.vercel.app/)
@@ -16,7 +16,7 @@
 
 ### 🚀 About My Work
 
-I am obsessed with the mechanics of artificial intelligence. Currently navigating my second year of B.Tech in CSE (AI & Future Technologies) with a 9.16 CGPA, I spend my time building AI-powered systems, integrating Large Language Models (LLMs), and mastering core computing concepts.
+I am obsessed with the mechanics of artificial intelligence. Currently entering my third year of B.Tech in CSE (AI & Future Technologies) with a 9.16 CGPA, I spend my time building AI-powered systems, integrating Large Language Models (LLMs), and mastering core computing concepts.
 
 - 🧠 **Focus:** Artificial Intelligence, Prompt Engineering, and RAG frameworks.
 - ⚙️ **Core CS:** Operating Systems, Data Structures & Algorithms (DSA), OOP, DBMS, and Computer Networks.
