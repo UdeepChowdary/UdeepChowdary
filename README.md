@@ -1,14 +1,16 @@
 <div align="center">
 
-# ⚡ Udeep Chowdary 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2979FF&height=220&section=header&text=Naripeddi%20Udeep%20Chowdary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Aspiring%20AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20RAG%20Systems&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="Naripeddi Udeep Chowdary" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CFB51&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Building+Intelligent+Systems;Deep+Learning+%26+RAG;Advanced+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2979FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Building+Intelligent+Systems;Deep+Learning+%26+RAG;Advanced+Data+Structures+%26+Algorithms" alt="Typing SVG" />
 
 *Third-year CS Engineering student passionate about AI, Deep Learning, and building intelligent systems.* 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udeep-chowdary)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-121011?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-bay-six-97.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/UdeepChowdary/UdeepChowdary/blob/main/UdeepChowdaryNaripeddi_resume.pdf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-udeep2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/udeep2006/)
+![Visitors](https://komarev.com/ghpvc/?username=UdeepChowdary&color=2979FF&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -26,10 +28,9 @@ I am obsessed with the mechanics of artificial intelligence. Currently entering 
 
 ### 🏆 Milestones & Achievements
 
+* ☁️ **Certifications:** Earned the **Google AI Professional Certificate** and **Google AI Essentials**, building 20+ AI artifacts and mastering prompt engineering.
 * 🚨 **HackMSC 2.0:** Secured **5th Place** out of numerous teams for engineering a Smart Mining Safety System.
 * 🩺 **AIFT Summer Challenge:** Secured **2nd Runner-Up** for developing Derm.AI, a deep learning skin classification tool, co-developed with my teammates [Mageshwaran T](https://github.com/itsmageshwaran) and [Upputuri Naga Rishita](https://github.com/nagarishitaupputuri2007).
-* ☁️ **Certifications:** Earned the **Google AI Professional Certificate** and **Google AI Essentials**, building 20+ AI artifacts and mastering prompt engineering.
-
 
 ---
 
