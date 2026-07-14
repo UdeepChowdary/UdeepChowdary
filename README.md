@@ -16,7 +16,7 @@
 
 ### 🚀 About My Work
 
-I am obsessed with the mechanics of artificial intelligence. Currently entering my third year of B.Tech in CSE (AI & Future Technologies) with a 9.16 CGPA, I spend my time building AI-powered systems, integrating Large Language Models (LLMs), and mastering core computing concepts.
+I am obsessed with the mechanics of artificial intelligence. Currently entering my third year of B.Tech in CSE (AI & Future Technologies) with a 9.15 CGPA, I spend my time building AI-powered systems, integrating Large Language Models (LLMs), and mastering core computing concepts.
 
 - 🧠 **Focus:** Artificial Intelligence, Prompt Engineering, and RAG frameworks.
 - ⚙️ **Core CS:** Operating Systems, Data Structures & Algorithms (DSA), OOP, DBMS, and Computer Networks.
@@ -36,9 +36,9 @@ I am obsessed with the mechanics of artificial intelligence. Currently entering 
 
 | Project | Description | Highlight |
 | :--- | :--- | :--- |
-| **Derm.AI** | Deep learning skin condition classification via Autoderm API. | AI / Deep Learning |
-| **Emotion Detection Engine** | Real-time emotion detection with adaptive learning support using CV & RAG. | Computer Vision / RAG |
-| **Smart Mining Safety System** | AI-powered safety monitoring system (HackMSC 2.0 — Top 5). | AI / Embedded Systems |
+| [**Derm.AI**](https://github.com/UdeepChowdary/derm_ai) | Deep learning skin condition classification via Autoderm API. | AI / Deep Learning |
+| [**Emotion Detection Engine**](https://github.com/UdeepChowdary/emotionDetectionLearningSupportEngine) | Real-time emotion detection with adaptive learning support using CV & RAG. | Computer Vision / RAG |
+| [**Smart Mining Safety System**](https://github.com/UdeepChowdary/gasmine) | AI-powered safety monitoring system (HackMSC 2.0 — Top 5). | AI / Embedded Systems |
 
 ---
 
