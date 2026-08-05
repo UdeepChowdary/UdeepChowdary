@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udeep-chowdary)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-121011?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-bay-six-97.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/UdeepChowdary/UdeepChowdary/blob/main/UdeepChowdaryNaripeddi_resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/UdeepChowdary/UdeepChowdary/blob/main/UdeepChowdaryNaripeddi_resume_3.pdf)
 [![LeetCode](https://img.shields.io/badge/LeetCode-udeep2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/udeep2006/)
 
 </div>
