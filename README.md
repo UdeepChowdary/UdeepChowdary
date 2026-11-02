@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2979FF&height=200&section=header&text=Udeep%20Chowdary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%2C%20LLM%20Apps%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" alt="Udeep Chowdary — AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2979FF&center=true&vCenter=true&width=700&lines=I+build+AI+products+that+actually+ship;RAG+%7C+LLMs+%7C+Computer+Vision;3rd-year+CSE+(AI)+%7C+CGPA+9.15" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2979FF&center=true&vCenter=true&width=700&lines=I+build+AI+products+that+actually+ship;RAG+%7C+LLMs+%7C+Computer+Vision;3rd-year+CSE+(AI)+%7C+CGPA+9.07" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2979FF?style=flat-square&logo=googlechrome&logoColor=white)](https://my-portfolio-bay-six-97.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/udeep-chowdary)
